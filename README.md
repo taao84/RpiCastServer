@@ -6,7 +6,7 @@ Only the server code is covered here.
 
 This project is meant to be an educational project. The topics to learn with this project cover: 
 - C programming
-- Building of C code using maen and the nar-maven-plugin
+- Building of C code using maven and the nar-maven-plugin
 - Networking
 - Implementation of protocols (DIAL in this case)
 
