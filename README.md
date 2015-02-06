@@ -15,3 +15,6 @@ Optionals:
 
 NOTES: The default configuration of the project will create an i386 executable, then you will not be able to use it in a Raspberry Pi. However at the root of the project you can find a folder named "optional_build" with the makefile that you can use to do compile the project using a crosscompiler for ARM. I will be uploading the steps to do so soon, for the ones that do not know how to do it. Optionally you can just follow the instructions given by the DIAL project in the given URL (http://www.dial-multiscreen.org/example-code).
 
+LIMITATIONS
+The Raspberry Pi B+ do not have the processing power or memory to run a Chrome browser displaying video. I tried this but it goes extremelly slow. However I will be doing some tests on the new Raspberry Pi 2 (pretty lady with bigger boobs and bigger ass), hopefully we will be able to get a good RpiCast going with this new one.
+
